@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1526077280 source:c:\users\nico\desktop\tp nico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1526077280 c:\users\nico\desktop\tp nico\funciones.h
+
+1526076685 source:c:\users\nico\desktop\tp nico\funciones.c
+	<stdio.h>
+	<string.h>
+	"funciones.h"
+
